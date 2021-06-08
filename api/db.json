@@ -1,0 +1,33 @@
+{
+  "streams": [
+    {
+      "title": "hey",
+      "description": "hey now brown cow",
+      "id": 1
+    },
+    {
+      "title": "new stream with user id",
+      "description": "Description",
+      "userId": "117684871139304732139",
+      "id": 2
+    },
+    {
+      "title": "new stream with user id",
+      "description": "Description",
+      "userId": "117684871139304732139",
+      "id": 4
+    },
+    {
+      "title": "new stream with user id",
+      "description": "Description",
+      "userId": "117684871139304732139",
+      "id": 5
+    },
+    {
+      "title": "hey",
+      "description": "test run",
+      "userId": "117684871139304732139",
+      "id": 6
+    }
+  ]
+}
